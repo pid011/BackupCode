@@ -10,7 +10,7 @@ namespace HelloWorld {
 			if (result) {
 				Console.WriteLine("같습니다");
 			} else {
-				Console.WriteLine("틀립니다아아아");
+				Console.WriteLine("틀립니다");
 			}
 		}
 	}
